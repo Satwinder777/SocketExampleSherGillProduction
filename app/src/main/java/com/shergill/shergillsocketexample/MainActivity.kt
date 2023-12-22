@@ -39,5 +39,6 @@ class MainActivity : AppCompatActivity() {
                 Log.d("PIESOCKET-SDK", "testevent was fired")
             }
         })
+        ///satta sher gill
     }
 }
